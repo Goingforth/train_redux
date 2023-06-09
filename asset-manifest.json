@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/train_redux/static/css/main.54715f07.css",
+    "main.js": "/train_redux/static/js/main.6466d2ac.js",
+    "index.html": "/train_redux/index.html",
+    "main.54715f07.css.map": "/train_redux/static/css/main.54715f07.css.map",
+    "main.6466d2ac.js.map": "/train_redux/static/js/main.6466d2ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54715f07.css",
+    "static/js/main.6466d2ac.js"
+  ]
+}
